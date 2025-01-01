@@ -19,7 +19,7 @@
         </mxCell>
         <mxCell id="2E7-oMuuQbG6Jia4ZMlB-10" value="(1,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2E7-oMuuQbG6Jia4ZMlB-7">
           <mxGeometry x="0.3429" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x-PH9cc-faj1OfSKzyTi-1" value="PROFILES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -54,8 +54,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2E7-oMuuQbG6Jia4ZMlB-9" value="Customer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2E7-oMuuQbG6Jia4ZMlB-5">
+        <mxCell id="2E7-oMuuQbG6Jia4ZMlB-9" value="Work with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2E7-oMuuQbG6Jia4ZMlB-5">
           <mxGeometry x="0.1442" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2E7-oMuuQbG6Jia4ZMlB-11" value="(1,1,)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2E7-oMuuQbG6Jia4ZMlB-5">
+          <mxGeometry x="-0.1349" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
